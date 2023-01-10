@@ -11,6 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Text("Using Git & GitHub in xCode")
+            Text("Adding more content")
         }
 
     }
